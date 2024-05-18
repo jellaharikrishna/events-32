@@ -1,0 +1,37 @@
+
+  .event-list {
+    width: 48%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+  }
+  .image-button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  .image-border-color {
+    border: 2px solid #2dd4bf;
+  }
+  .event-image {
+    width: 100%;
+  }
+
+  .event-name {
+    color: white;
+    font-family: Roboto;
+    font-size: 24px;
+    margin: 0;
+  }
+  .event-location {
+    color: #f8fafc;
+    font-family: Roboto;
+    font-size: 14px;
+    margin-top: 0;
+  }
+  @media screen and (min-width: 992px) {
+}
